@@ -1,0 +1,6 @@
+{
+  "name": "Hermosa",
+  "description": "AI Resume Intelligence System - Analyzes resumes against job descriptions with ATS, AI detection, experience, education, fraud detection, and hiring recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
